@@ -3,9 +3,9 @@
 
 #### Skills:
 - HTML, CSS
-- PHP (Vanilla, YII2, Laravel)
-- JavaScript (Node.js)
-- Vue.js
-- SQL
+- PHP (YII2, Laravel)
+- JavaScript (Vue.js)
+- Node.js (Express)
+- MySQL, MongoDB, Neo4j
 - Linux
 - GIT
