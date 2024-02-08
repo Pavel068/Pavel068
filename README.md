@@ -9,8 +9,3 @@
 - MySQL, MongoDB, Neo4j
 - Linux
 - GIT
-
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-
-<a href="https://1t.ru">Тык<a>
